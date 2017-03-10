@@ -23,7 +23,7 @@ Date:   Mar 10, 2017
 |Github|https://github.com/saixiii|
 
 -----
-#### Work Experience
+##### Work Experience
 * `2009  ~  now`   **True Corporation Public Company Limited**  (Bangkok Thailand)
 
 |Date| Position|Department|
@@ -33,8 +33,9 @@ Date:   Mar 10, 2017
 |Jun - 2012 | Senior Engineer | Mobile VAS Services - Technical |
 |Nov - 2013 | Senior Engineer | Mobile Service Platform Management |
 |Sep - 2014 | Engineering Specialist | Mobile Service Platform Management |
+
 -----
-#### Education
+##### Education
 
 |Date|Institution|Department|
 |--|--|---|
@@ -42,7 +43,7 @@ Date:   Mar 10, 2017
 |1993 - 2005|Saint Gabriel's College [SG84]|High School / Mathematics-Science|
 
 -----
-#### Skills
+##### Skills
 * **Human Languages:** _English , Thai - Native_
 * **Programing Language:** _Shell,  Java , Python , Perl , C# , Swift , PHP , HTML , Javascript_
 * **Operating System:** _Window , Unix(SUNOS/AIX), Linux(Centos/Ubuntu/Suse)_
