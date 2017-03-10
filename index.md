@@ -1,4 +1,4 @@
-<link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
+<link rel="stylesheet" href="markdown.css">
 Title: Suphakit Annoppornchai
 Author: Suphakit Annoppornchai
 Date:   Mar 10, 2017  
