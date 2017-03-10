@@ -1,4 +1,4 @@
-<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+
 
 Title: Suphakit Annoppornchai
 Author: Suphakit Annoppornchai
