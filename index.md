@@ -1,14 +1,14 @@
-<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
-
 <head>
   <title>Suphakit Annoppornchai</title>
 </head>
+
+<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
 
 # Saixiii
 
 
 #### Profile
-* **Name:**  _Suphakit Annoppornchai [Bank]_
+* **Name:**  _Suphakit Annoppornchai `Bank`_
 * **Address:**  _Bangkok - Thailand_
 
 -----
@@ -41,8 +41,8 @@
 
 |Date|Institution|Department|
 |----|-----------|----------|
-|2005 - 2009|Kasetsart University [KU65]|Bachelor of Engineering / Electrical Engineering|
-|1993 - 2005|Saint Gabriel's College [SG84]|High School / Mathematics-Science|
+|2005 - 2009|Kasetsart University `KU65`|Bachelor of Engineering / Electrical Engineering|
+|1993 - 2005|Saint Gabriel's College `SG84`|High School / Mathematics-Science|
 
 -----
 #### Skills
