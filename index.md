@@ -35,10 +35,12 @@ Date:   Mar 10, 2017
 |Sep - 2014 | Engineering Specialist | Mobile Service Platform Management |
 -----
 #### Education
+
 |Date|Institution|Department|
 |--|--|---|
 |2005 - 2009|Kasetsart University [KU65]|Bachelor of Engineering / Electrical Engineering|
 |1993 - 2005|Saint Gabriel's College [SG84]|High School / Mathematics-Science|
+
 -----
 #### Skills
 * **Human Languages:** _English , Thai - Native_
