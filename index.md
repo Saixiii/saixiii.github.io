@@ -1,13 +1,5 @@
-<link rel="stylesheet" href="/markdown.css">
-<style>
-    .markdown-body {
-        box-sizing: border-box;
-        min-width: 200px;
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 45px;
-    }
-</style>
+<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+
 Title: Suphakit Annoppornchai
 Author: Suphakit Annoppornchai
 Date:   Mar 10, 2017  
