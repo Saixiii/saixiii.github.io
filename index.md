@@ -1,10 +1,4 @@
-<head>
-  <title>Suphakit Annoppornchai</title>
-</head>
-
-<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
-
-# Saixiii
+# Saixiii - https://saixiii.com
 
 
 #### Profile
